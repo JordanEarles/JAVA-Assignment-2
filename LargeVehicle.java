@@ -13,7 +13,7 @@ public class LargeVehicle extends Car {
 		int Menu;
 		
 		do {
-			System.out.println("Do either of the following apply to you?");
+			System.out.println("Do either of the folliwing apply to you?");
 			System.out.println("1: Parking in a Disabled Space");
 			System.out.println("2: Parking in a Family Space");
 			System.out.println("3: Neither of these apply");
